@@ -20,6 +20,10 @@ await import("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/
 ```php
 eval(file_get_contents("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/php.php"));
 ```
+### CLI
+```cli
+curl -o js.js https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js
+```
 
 ---
 
