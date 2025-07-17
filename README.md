@@ -7,7 +7,15 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 ## 📥 Installation
 
 ---
-### ...JS
+### JS [Browser]
+```js
+<script src="https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js"></script>
+<script>
+```
+### JS [Normal]
+```js
+await import("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js");
+```
 ---
 
 
