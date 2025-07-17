@@ -31,6 +31,12 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 
 `randomBool()`
 
+`CrossLang.version`
+
+`CrossLang.dev`
+
+`CrossLang.updated`
+
 ---
 
 ## 📥 Installation
