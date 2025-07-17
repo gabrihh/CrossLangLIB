@@ -14,7 +14,11 @@ A remote, static LIBRARY to facilitate "complex" syntax and organization in a va
    </script> | ... | ... | ... |
 | --- | --- | --- | --- |
 | await 
-import("https://seusite.com/crosslang.js"); | ... | ... | ... |
+  import("https://
+  raw.githubusercontent.com/
+  gabrihh/CrossLangLIB/refs/
+  heads/main/
+  lang/js.js"); | ... | ... | ... |
 | --- | --- | --- | --- |
 
  
