@@ -4,7 +4,7 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 
 
 
-## Installation
+## 📥 Installation
 
 ---
 ### ...JS
