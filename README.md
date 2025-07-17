@@ -26,6 +26,10 @@ local http = require("socket.http")
 
 local code, status = http.request("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/lua.lua")
 ```
+### PYTHON [REMOTE]
+```py
+import urllib.request; exec(urllib.request.urlopen("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/py.py").read().decode())
+```
 ### CLI [STATIC]
 ```cli
 curl -o js.js https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js
