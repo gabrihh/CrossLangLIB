@@ -8,6 +8,6 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 
 | JavaScript | PHP | Lua | Python |
 | --- | --- | --- | --- |
-| [Script link](https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js) | ... | ... | ... |
+| <script src="[raw.githubusercontent.com](https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js)"></script> | ... | ... | ... |
 
 ---
