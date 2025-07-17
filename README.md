@@ -30,6 +30,7 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 `mergeObjects({ obj1, obj2 })`
 
 `randomBool()`
+
 ---
 
 ## 📥 Installation
