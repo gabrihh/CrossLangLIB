@@ -5,21 +5,31 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 ## 📦 Functions
 
 ---
-```
-randomInt({ min, max })
-randomFloat({ min, max })
-getElement({ element })
-getElements({ selector })
-randomAE({ arr })
-capitalize({ str })
-clamp({ num, min, max })
-shuffleArray({ arr })
-delay({ ms })
-isEmpty({ value })
-range({ start, end })
-mergeObjects({ obj1, obj2 })
-randomBool()
-```
+`randomInt({ min, max })`
+
+`randomFloat({ min, max })`
+
+`getElement({ element })`
+
+`getElements({ selector })`
+
+`randomAE({ arr })`
+
+`capitalize({ str })`
+
+`clamp({ num, min, max })`
+
+`shuffleArray({ arr })`
+
+`delay({ ms })`
+
+`isEmpty({ value })`
+
+`range({ start, end })`
+
+`mergeObjects({ obj1, obj2 })`
+
+`randomBool()`
 ---
 
 ## 📥 Installation
