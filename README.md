@@ -4,21 +4,7 @@ A remote, static LIBRARY to facilitate "complex" syntax and organization in a va
 
 ## Installation
 
-| ...JS | PHP | Lua | Python |
-| --- | --- | --- | --- |
-| <script src="https://
-   raw.githubusercontent.com/
-   gabrihh/CrossLangLIB/refs/
-   heads/main/
-   lang/js.js">
-   </script> | ... | ... | ... |
-| --- | --- | --- | --- |
-| await 
-  import("https://
-  raw.githubusercontent.com/
-  gabrihh/CrossLangLIB/refs/
-  heads/main/
-  lang/js.js"); | ... | ... | ... |
-| --- | --- | --- | --- |
-
- 
+| JS                                                              | PHP | Lua | Python |
+|-----------------------------------------------------------------|-----|-----|--------|
+| `<script src="https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js"></script>` | ... | ... | ... |
+| `await import("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js");`        | ... | ... | ... |
