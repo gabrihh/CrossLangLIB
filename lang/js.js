@@ -1,8 +1,8 @@
 (() => {
 	
-	const env = typeof window !== 'undefined' ? window : global;
+const env = typeof window !== 'undefined' ? window : global;
 	
-	env.CrossLang = {
+  env.CrossLang = {
     version: "0.1.0",
     dev: "GabrihhDEV_",
     updated: "Jul 17, 2025"
