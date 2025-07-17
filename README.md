@@ -20,6 +20,12 @@ await import("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/
 ```php
 eval(file_get_contents("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/php.php"));
 ```
+### LUA [REMOTE]
+```js
+local http = require("socket.http")
+
+local code, status = http.request("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/lua.lua")
+```
 ### CLI [STATIC]
 ```cli
 curl -o js.js https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js
