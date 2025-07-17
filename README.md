@@ -7,20 +7,20 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 ## 📥 Installation
 
 ---
-### JS [Browser]
+### JS [Browser, REMOTE]
 ```html
 <script src="https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js"></script>
 <script>
 ```
-### JS [Normal]
+### JS [Normal, REMOTE]
 ```js
 await import("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js");
 ```
-### PHP
+### PHP [REMOTE]
 ```php
 eval(file_get_contents("https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/php.php"));
 ```
-### CLI
+### CLI [STATIC]
 ```cli
 curl -o js.js https://raw.githubusercontent.com/gabrihh/CrossLangLIB/refs/heads/main/lang/js.js
 ```
