@@ -9,7 +9,8 @@ A remote, static LIBRARY to facilitate "complex" syntax and organization in a va
 | <script src="https://
    raw.githubusercontent.com/
    gabrihh/CrossLangLIB/refs/
-   heads/main/lang/js.js">
+   heads/main/
+   lang/js.js">
    </script> | ... | ... | ... |
 | --- | --- | --- | --- |
 
