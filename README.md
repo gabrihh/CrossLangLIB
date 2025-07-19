@@ -21,7 +21,7 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 
 `shuffleArray({ arr })`
 
-`delay({ ms })`
+`await delay({ ms })`
 
 `isEmpty({ value })`
 
