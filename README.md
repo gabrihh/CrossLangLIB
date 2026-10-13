@@ -2,9 +2,10 @@
 
 A **remote, static library** to facilitate "complex" syntax and organization in multiple languages, making development easier and cleaner.
 
+---
+
 ## 📦 Functions
 
----
 `randomInt({ min, max })`
 
 `randomFloat({ min, max })`
@@ -41,7 +42,6 @@ A **remote, static library** to facilitate "complex" syntax and organization in 
 
 ## 📥 Installation
 
----
 ### JS [Browser, REMOTE]
 ```html
 <script src="https://cdn.jsdelivr.net/gh/gabrihh/CrossLangLIB/lang/js.js"></script>
@@ -68,7 +68,5 @@ import urllib.request; exec(urllib.request.urlopen("https://cdn.jsdelivr.net/gh/
 ```cli
 curl -o js.js https://cdn.jsdelivr.net/gh/gabrihh/CrossLangLIB/lang/js.js
 ```
-
----
 
 
